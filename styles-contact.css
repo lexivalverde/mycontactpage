@@ -118,16 +118,16 @@ h1 {
     margin: 0px auto 10px auto;
     color: #fff;
 }
-/*---removed h2----*/
+
 h2 {
-	 font-family: 'BhuTuka Expanded One', cursive;
-	font-size: 1.5em;
+	 font-family: 'Raleway', sans-serif;
+	font-size: 1.75em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
-/*---END revomed h2---*/
+
 p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.75em;
